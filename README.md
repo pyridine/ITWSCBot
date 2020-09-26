@@ -1,6 +1,6 @@
 # ITWSCBot
 
-This is the Twitter bot for [isthatwordspelledcorrectly.com](http://isthatwordspelledcorrectly.com/). It tweets one correctly spelled word every 7 hours. Check it out at [@ITWSCBot](https://twitter.com/ITWSCBot).
+This is the Twitter bot for [isthatwordspelledcorrectly.com](http://isthatwordspelledcorrectly.com/). It is a Docker container that tweets one correctly spelled word every 7 hours. Check it out at [@ITWSCBot](https://twitter.com/ITWSCBot).
 
 ## Deploying
 
