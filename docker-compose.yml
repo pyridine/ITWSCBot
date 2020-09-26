@@ -1,0 +1,3 @@
+services:
+  itwscbot:
+    image: itwscbot:latest
