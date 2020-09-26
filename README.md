@@ -39,4 +39,4 @@ rg -v -f obscene_words english_words > safe_words
 
 to remove all instances of obscene words from the english words, and pipe that to a new file.
 
-Note that  I am removing all occurrences of the obscene words, even if they occur as substrings or not. I am falling prey to the [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem). But I think the resulting list is more interesting with so many common words removed.
+Note that  I am removing all occurrences of the obscene words, even when occurring as a substring. I am falling prey to the [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem). But I think the resulting list is more interesting with so many common words removed.
